@@ -6,7 +6,6 @@ namespace Scramble
 {
     public class Utils
     {
-        public string basePath = Environment.CurrentDirectory;
         public string tempPath = Environment.CurrentDirectory + Path.DirectorySeparatorChar + "Temp";
         private string filePath;
         private string tempFolderPath;
